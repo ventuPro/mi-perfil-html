@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>MI PRIMER HTML</title>
+</head>
+<body>
+    	<h1>Bienvenido a mi perfil</h1>
+	<h1>mi nombre es BRAYAN RICHARD VENTURA ALVINO</h1>
+    <img src="ruta/a/tu/imagen.jpg">
+    <p>SOY DE LA UNIVERSIDAD SALESIANA DE BOLIVIA DE LA CARRERA DE INGENIERIA DE SISTEMAS</p>
+    <ul>
+        <li>Ingenieria de sistemas</li>
+        <li>Ingenieria de sistemas</li>
+        <li>Ingenieria de sistemas</li>
+    </ul>
+</body>
+</html>
